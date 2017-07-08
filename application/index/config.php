@@ -13,6 +13,6 @@
 return [
     // 视图输出字符串内容替换
     'view_replace_str' => [
-        __INDEX__ => '/tp5/public/static/index'
+        '__INDEX__' => '/HK_curriculum/public/static/index/'
     ],
 ];
